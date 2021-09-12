@@ -1,6 +1,6 @@
 /* ---------------------------------------------
 Create your own HPB token (HRC20) which you can deploy onto the HPB blockchain, and then add to HPDex. Simply change the information on lines 114 to 118. 
-/* ---------------------------------------------
+*/ ---------------------------------------------
 
 pragma solidity ^0.4.4;
 
