@@ -9,11 +9,11 @@ Now change the information on lines 114-118 of the code to suit your own require
 
 Ensure you have Metamask installed and are connected to the HPB network. If you haven't done this, you'll need to use the following information in Metamask Settings -> Network:
 
-Network Name = HPB Network
-New RPC URL = https://hpbnode.com
-Chain ID = 269
-Currency Symbol = HPB
-Block Explorer URL = https://hpbscan.org
+- Network Name = HPB Network
+- New RPC URL = https://hpbnode.com
+- Chain ID = 269
+- Currency Symbol = HPB
+- Block Explorer URL = https://hpbscan.org
 
 (remember, you can always confirm details from the HPB Telegram group - https://t.me/hpbglobal)
 
