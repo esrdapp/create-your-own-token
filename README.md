@@ -1,7 +1,7 @@
 # create-your-own-token
 create a HRC20 token on the HPB blockchain
 
-Simply create a new file in remix.ethereum.org (it's the small icon in Remix that looks like a sheet of paper with the top-right corner of the sheet folded in) and call the new file MyToken.sol  
+Simply create a new file in https://remix.ethereum.org (it's the small icon in Remix that looks like a sheet of paper with the top-right corner of the sheet folded in) and call the new file MyToken.sol  
 
 Next, copy/paste all of the code from the MyToken.sol file here on this github, into your new MyToken.sol file in Remix.
 
