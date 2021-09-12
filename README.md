@@ -35,6 +35,8 @@ Metamask should pop up asking you to confirm that you wish to deploy your token 
 
 If the transaction completes sucessfully, you should see a new contract instance appear in remix in the "Deployed Contracts" section. This is the contract address of your token. You can now add this into Metamsk to view your tokens. Simply click on "Add Token" and paste in the new contract address to add your tokens into Metamask. You can now send your tokens to other addresses in the exact same way as you can send HPB. 
 
+You can check your token information by pasting the new token contract address into https://hpbscan.org
+
 You can also add your token to the HPDex liquidity pool for trading using the new contract address at https://app.hpdex.org/#/add/HPB
 
 
